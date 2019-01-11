@@ -1,0 +1,1 @@
+Voici les exercices de ruby  pour ce vendredi
